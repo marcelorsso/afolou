@@ -1,0 +1,31 @@
+body{
+    background-color: #201c1c;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    width: 250px;   
+    height: 350px;
+        margin-left: 50vw;
+        transform: translate(-50%);
+}
+.afolou{
+    text-align: center;
+}
+
+.headdiv{
+    position: relative;
+    min-height: 100%;
+    width: 100%;
+    background: #282424;
+    color: gainsboro;
+}
+
+
